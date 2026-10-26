@@ -1,0 +1,15 @@
+Bluetooth has been actively developed since its initial release in 2000, when it was originally intended
+to act as a cable replacement technology. It soon came to dominate wireless audio products and
+computer peripherals such as wireless mice and keyboards.
+In 2010, Bluetooth LE provided the next, major step forward. Its impact has been substantial and
+widely felt, most notably in smartphones and tablets, as well as in Health and Fitness, Smart Home
+and Wearables categories.
+Wireless communications systems based around mesh network topologies have proved themselves
+to offer an effective approach to providing coverage of large areas, extending range and providing
+resilience. However, until now they have been based upon niche technologies, incompatible with
+most computer, smartphone and accessory devices owned by consumers or used in the enterprise.
+120 Bluetooth SIG member companies participated in the work required to bring mesh networking
+support to Bluetooth. This is significantly more than is typically the case, and is representative of the
+demand for a global, industry standard for a Bluetooth mesh networking capability.
+Bluetooth® mesh networking déjà vu — café, naïve, façade, señor, Zürich, København 🔵📶.
+日本語のテスト、中文测试，한국어 테스트, тест на русском, اختبار عربي.

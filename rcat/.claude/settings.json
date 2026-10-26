@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pacman -Qi rust-src)",
+      "Bash(pacman -Ql rust)",
+      "Bash(rustc --print sysroot)",
+      "Bash(ls \"$\\(rustc --print sysroot\\)/lib/rustlib/src/rust/library\")"
+    ]
+  }
+}
